@@ -50,7 +50,7 @@ The code combines data processing with an interactive GUI to provide a comprehen
 
 How it works:
 
--Upon launching, the application displays a start page with the app name and logo, and a "Start" button to enter the main interface.
+- Upon launching, the application displays a start page with the app name and logo, and a "Start" button to enter the main interface.
 - The main interface allows users to filter cosmetic products based on multiple criteria including brand, skin type, ingredients, price range, and rank range.
 - Users can select brands from a dropdown, choose skin types via checkboxes, and select multiple ingredients from a list.
 - Price and rank filters are input fields with validation to ensure correct ranges.
